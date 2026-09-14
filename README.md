@@ -9,7 +9,7 @@ Passionate about building scalable web applications and continuously learning ne
 
 ## 🚀 About Me
 
-- 💻 Fullstack Software Engineer with **5+ years experience**
+- 💻 Fullstack Software Engineer with **7+ years experience**
 - 🌱 Currently exploring **NestJS, AI Integration, and System Architecture**
 - 🧠 Passionate about **problem solving, backend architecture, and building features**
 - 🔧 Experienced in **end-to-end web development**
