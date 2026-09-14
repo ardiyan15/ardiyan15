@@ -62,9 +62,9 @@ Passionate about building scalable web applications and continuously learning ne
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn  
-- 📧 Email  
-- 🌐 Portfolio Website  
+- 💼 <a href="https://www.linkedin.com/in/ardiyanagus/" target="_blank"> LinkedIn </a>
+- 📧 <a href="mailto:ardhiyan15@gmail.com">Email</a>
+- 🌐 <a href="https://ardiyan15.github.io/"> Portfolio Website </a>  
 
 ---
 
